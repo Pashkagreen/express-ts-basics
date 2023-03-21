@@ -104,6 +104,5 @@
 		"src",
     "src/*.ts",
     "src/*.d.ts",
-    "src/types/custom.d.ts",
   ]
 }
